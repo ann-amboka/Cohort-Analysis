@@ -68,6 +68,7 @@ If no changes are made, this pattern will continue
 This trajectory is not sustainable for the business in the long term.
 
 B. WAS IT GOOD OR BAD?
+
 ❌ What’s Bad
 
 Users are dropping every month
