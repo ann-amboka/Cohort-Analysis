@@ -95,27 +95,28 @@ This indicates that the problem is not primarily a marketing issue, but a strate
 
 ✅ Recommendations
 
-Reduce Campaign Spend
+1. Reduce Campaign Spend
 
-Limit campaigns to Campaign A only
+~Limit campaigns to Campaign A only
 
-Eliminate underperforming campaigns that drive low-quality users
+~Eliminate underperforming campaigns that drive low-quality users
 
-Shift Focus to Walk-In Users
+2. Shift Focus to Walk-In Users
 
-Prioritize organic acquisition
+~Prioritize organic acquisition
 
-Nurture walk-in users through onboarding, engagement, and retention strategies
+~Nurture walk-in users through onboarding, engagement, and retention strategies
 
 These users represent the right target market, not just volume
 
-Reallocate Effort from Acquisition to Retention
+3. Reallocate Effort from Acquisition to Retention
 
-Improve early-stage user experience
+~Improve early-stage user experience
 
-Focus on activation and habit formation in the first 30 days
+~Focus on activation and habit formation in the first 30 days
 
-Retention improvements will have a larger impact than adding more users
+~Retention improvements will have a larger impact than adding more users
+
 
 🧠 Final Takeaway
 
