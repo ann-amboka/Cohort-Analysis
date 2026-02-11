@@ -1,6 +1,8 @@
 📊 COHORT ANALYSIS PROJECT
 Understanding Retention, Campaign Impact, and Business Sustainability
 NOTE: This is a dataset developed by CHATCPT
+
+
 🔍 FRAMEWORK USED
 
 This analysis follows a simple but powerful decision framework:
