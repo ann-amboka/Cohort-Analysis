@@ -1,126 +1,170 @@
 📊 COHORT ANALYSIS PROJECT
-
-Understanding Retention, Campaign Impact, and Business Sustainability
-
-NOTE: This is a dataset developed by CHATCPT
-
+Retention, Campaign Impact, Events, and Business Sustainability
 
 🔍 FRAMEWORK USED
 
-This analysis follows a simple but powerful decision framework:
+This analysis follows a simple decision-making framework:
 
-What happened?
+A.What happened?
 
-Was it good or bad?
+B.Was it good or bad?
 
-What should we do about it?
+C.What should we do about it?
 
-The dataset was analyzed across five core areas to reflect real-world business behavior.
+The analysis is structured across five key areas, incorporating campaigns, real-world events, and user behavior over time.
 
 A. WHAT HAPPENED
 1. Trend Analysis
 
 Across all cohorts, retention decreased by approximately 10% every month.
-This translates to an average loss of 10,000 users per month.
+This represents an average loss of 10,000 users per month.
 
-The decline is consistent across cohorts, indicating a systemic issue rather than a one-off anomaly.
+The decline is consistent across cohorts, indicating a system-wide retention problem, not a cohort-specific issue.
 
-2. Identifying High-Value Customers
+2. Impact of Business Events
 
-The analysis shows that walk-in users (non-campaign users) are the highest-value customers.
+Three major events occurred during the analysis period:
 
-Compared to campaign-driven users, walk-ins:
+Product launch
 
-Use the product more frequently
+Price drop
 
-Stay active for longer periods
+System outage
 
-Show stronger long-term engagement
+Key Observations
 
-This suggests that organic acquisition is bringing in better-fit users.
+>The product launch did not produce a sustained improvement in retention.
 
-3. Measuring Campaign Effectiveness
+>Despite the price drop, sign-ups and active users showed no meaningful increase.
 
-Three campaigns were evaluated.
+>The system outage negatively affected engagement but did not change the overall churn pattern.
 
-Campaigns successfully drove user acquisition across all months
+Insight
 
-One campaign (Campaign A) showed strong first-month retention
+The price drop failed to attract new users or improve retention, suggesting that pricing was not the core barrier.
+For a new product, this indicates that value perception and product experience matter more than discounts.
 
-However, retention drops sharply after Month 1 for campaign users
+3. Identifying High-Value Customers
 
-This indicates that campaigns are effective at acquisition, but weak at long-term retention.
+High-value customers are(organic) users, not campaign-driven users.
 
-4. Tracking Customer Changes
+Compared to users acquired through campaigns, organic users:
 
-User count declines every month across all cohorts, regardless of acquisition source.
+Engage more frequently
 
-This confirms that churn is persistent and ongoing, not isolated to a specific cohort, campaign, or event.
+Stay active longer
 
-5. Forecasting Business Performance
+Show stronger long-term retention
 
-Based on the observed trend:
+These users demonstrate clear product-market fit.
 
-A 10% monthly decline is being consistently maintained
+4. Measuring Campaign Effectiveness
 
-If no changes are made, this pattern will continue
+Three campaigns were analyzed.
 
-This trajectory is not sustainable for the business in the long term.
+Campaign A and Campaign B were the most effective
+
+Higher acquisition volumes
+
+Stronger first-month retention
+
+Campaign C consistently underperformed
+
+Lower retention
+
+Lower long-term value
+
+While campaigns successfully drove sign-ups, retention beyond the first month declined sharply.
+
+5. Tracking Customer Changes
+
+User counts declined every month across all cohorts, regardless of:
+
+Campaign exposure
+
+Events
+
+Acquisition source
+
+This confirms that churn is persistent and structural.
+
+6. Forecasting Business Performance
+
+Based on historical trends:
+
+A 10% monthly decline is likely to continue
+
+If unchanged, this trajectory is not sustainable
+
+Growth driven purely by acquisition will continue to leak users.
 
 B. WAS IT GOOD OR BAD?
 
 ❌ What’s Bad
 
-Users are dropping every month
+Users drop every month across all cohorts
 
-Retention remains weak despite multiple campaigns and a price drop
+Campaigns and price drops fail to improve long-term retention
 
-Growth is driven by acquisition, not loyalty
+Acquisition growth masks deeper retention issues
 
 ✅ What’s Good
 
-Campaigns are effective at driving users
+Campaigns A and B are effective at acquisition
 
-Walk-in users show strong product-market fit
+Organic users show strong engagement and loyalty
 
-The problem is clearly identifiable, not ambiguous
+The core problems are clearly measurable and diagnosable
 
 C. WHAT SHOULD WE DO ABOUT IT?
-📌 Key Insight
 
-For B2C apps, a 5–7% monthly churn rate is generally considered healthy.
+📌 Strategic Insight
+
+For B2C apps, a 5–7% monthly churn rate is generally healthy.
 A 10% churn rate is dangerous.
 
-This indicates that the problem is not primarily a marketing issue, but a strategic and product issue.
+This is not a marketing problem.
+It is a strategy and retention problem.
 
 ✅ Recommendations
+1. Reallocate Campaign Spend
 
-1. Reduce Campaign Spend
+Retain Campaign A
 
-~Limit campaigns to Campaign A only
+Maintain Campaign B selectively
 
-~Eliminate underperforming campaigns that drive low-quality users
+Stop or reduce Campaign C
 
-2. Shift Focus to Walk-In Users
+Redirect Campaign C resources toward organic user nurturing
 
-~Prioritize organic acquisition
+2. Prioritize Organic (Walk-In) Users
 
-~Nurture walk-in users through onboarding, engagement, and retention strategies
+Organic users are the highest-value segment
 
-These users represent the right target market, not just volume
+Invest in onboarding, engagement, and retention for this group
 
-3. Reallocate Effort from Acquisition to Retention
+Focus on activation and habit formation rather than discounts
 
-~Improve early-stage user experience
+3. Shift Focus from Discounts to Value
 
-~Focus on activation and habit formation in the first 30 days
+Price drops did not increase acquisition
 
-~Retention improvements will have a larger impact than adding more users
+Improve:
 
+~~Core feature clarity
 
-🧠 Final Takeaway
+~~Early user experience
 
-The business is growing users but losing customers faster than it can sustain.
-Until retention is fixed, scaling acquisition will only amplify the problem.
+~~Retention improvements will outperform acquisition spend
 
-Cohort analysis reveals not just what is happening, but why growth is fragile, and where strategy must change.
+🧠 FINAL TAKEAWAY
+
+The business is acquiring users successfully but failing to retain them.
+
+Until retention improves:
+
+More campaigns will only increase churn volume
+
+Discounts will not fix the underlying issue
+
+Cohort analysis reveals where growth is breaking and where strategy must change.
